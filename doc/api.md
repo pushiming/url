@@ -1,6 +1,6 @@
 ## Methods
 
-### format( url [, serializeArray] )
+### format ( url [, serializeArray] )
 
 将 url 对象转为 url 字符串。
 
